@@ -2,6 +2,22 @@
   "name": "techblog",
   "private": true,
   "version": "0.0.0",
+  "description": "Tetchblog feito seguindo o desafio 3 da Codelândia",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Manuel-AC-Ventura/TechBlog.git"
+  },
+  "keywords": [
+    "React",
+    "Tetchblog",
+    "Tetch",
+    "Blog",
+    "Landingpage",
+    "Codelândia",
+    "Manuel Ventura"
+  ],
+  "author": "Manuel Ventura",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
